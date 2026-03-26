@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋!
 
 <!--
 **dev-with-ritesh/dev-with-ritesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
