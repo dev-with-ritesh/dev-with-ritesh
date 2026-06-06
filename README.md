@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dev-with-ritesh/dev-with-ritesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Ritesh Mondal
 
-Here are some ideas to get you started:
+### Student | Frontend Developer | Web Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Passionate about creating modern, responsive, and user-friendly websites.
+Currently learning new technologies every day and building projects to improve my skills.
+</p>
+
+<p>
+🌐 <strong>Portfolio:</strong>
+<a href="https://dev-with-ritesh.github.io/portfolio">Ritesh Mondal - Portfolio</a>
+</p>
+
+<p>
+<a href="https://github.com/dev-with-ritesh">
+<img src="https://img.shields.io/github/followers/dev-with-ritesh?label=Followers&style=for-the-badge&color=blue">
+</a>
+
+<a href="https://github.com/dev-with-ritesh">
+<img src="https://img.shields.io/github/stars/dev-with-ritesh?style=for-the-badge&color=yellow">
+</a>
+
+<a href="https://codepen.io/dev-with-ritesh">
+<img src="https://img.shields.io/badge/CodePen-Profile-black?style=for-the-badge&logo=codepen">
+</a>
+</p>
+
+</div>
