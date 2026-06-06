@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👨‍💻 Ritesh Mondal
 
 ### Student | Frontend Developer | Web Designer
@@ -28,4 +26,27 @@ Currently learning new technologies every day and building projects to improve m
 </a>
 </p>
 
-</div>
+---
+
+## 📊 GitHub Statistics
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-with-ritesh&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-with-ritesh&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=tokyonight"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6" />
+
+---
+
+### ⭐ Thanks for visiting my profile!
