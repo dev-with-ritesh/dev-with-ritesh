@@ -28,24 +28,31 @@ Currently learning new technologies every day and building projects to improve m
 
 ---
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+---
+
 ## 📊 GitHub Statistics
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-with-ritesh&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-with-ritesh&layout=compact&theme=tokyonight"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-with-ritesh&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-with-ritesh&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-with-ritesh&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-with-ritesh&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-with-ritesh&theme=radical&utcOffset=8">
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=tokyonight">
 
 ---
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6">
 
 ---
 
