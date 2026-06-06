@@ -28,6 +28,8 @@ Currently learning new technologies every day and building projects to improve m
 
 ---
 
+## 🐍 Contribution Snake
+
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ---
