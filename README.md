@@ -14,15 +14,15 @@ Currently learning new technologies every day and building projects to improve m
 
 <p>
 <a href="https://github.com/dev-with-ritesh">
-<img src="https://img.shields.io/github/followers/dev-with-ritesh?label=Followers&style=for-the-badge&color=blue">
+<img src="https://img.shields.io/github/followers/dev-with-ritesh?label=Followers&style=for-the-badge&color=blue" />
 </a>
 
 <a href="https://github.com/dev-with-ritesh">
-<img src="https://img.shields.io/github/stars/dev-with-ritesh?style=for-the-badge&color=yellow">
+<img src="https://img.shields.io/github/stars/dev-with-ritesh?style=for-the-badge&color=yellow" />
 </a>
 
 <a href="https://codepen.io/dev-with-ritesh">
-<img src="https://img.shields.io/badge/CodePen-Profile-black?style=for-the-badge&logo=codepen">
+<img src="https://img.shields.io/badge/CodePen-Profile-black?style=for-the-badge&logo=codepen" />
 </a>
 </p>
 
@@ -37,24 +37,24 @@ Currently learning new technologies every day and building projects to improve m
 ## 📊 GitHub Statistics
 
 <p>
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-with-ritesh&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-with-ritesh&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-with-ritesh&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-with-ritesh&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-with-ritesh&theme=radical&utcOffset=8">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-with-ritesh&theme=radical" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-with-ritesh&theme=radical" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-with-ritesh&theme=radical" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-with-ritesh&theme=radical" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-with-ritesh&theme=radical&utcOffset=8" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=tokyonight" />
 
 ---
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6" />
 
 ---
 
