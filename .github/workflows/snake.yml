@@ -33,6 +33,7 @@ jobs:
           outputs: |
             dist/github-snake-light.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-tokyonight.svg?palette=tokyonight
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
