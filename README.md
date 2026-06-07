@@ -37,18 +37,18 @@ Currently learning new technologies every day and building projects to improve m
 ## 📊 GitHub Statistics
 
 <p>
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-with-ritesh&theme=github_dark" />
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-with-ritesh&theme=github_dark" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-with-ritesh&theme=github_dark" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-with-ritesh&theme=github_dark" />
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-with-ritesh&theme=github_dark&utcOffset=8" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-with-ritesh&theme=tokyonight" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-with-ritesh&theme=tokyonight" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-with-ritesh&theme=tokyonight" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-with-ritesh&theme=tokyonight" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-with-ritesh&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=github_dark" />
+<img src="https://streak-stats.demolab.com?user=dev-with-ritesh&theme=tokyonight" />
 
 ---
 
