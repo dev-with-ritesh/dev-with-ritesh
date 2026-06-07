@@ -30,7 +30,7 @@ Currently learning new technologies every day and building projects to improve m
 
 ## 🐍 Contribution Snake
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://github.com/dev-with-ritesh/dev-with-ritesh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
