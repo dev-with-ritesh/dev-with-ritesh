@@ -28,9 +28,9 @@ Currently learning new technologies every day and building projects to improve m
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
-<img src="https://github.com/dev-with-ritesh/dev-with-ritesh/blob/output/github-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6" />
 
 ---
 
@@ -52,9 +52,9 @@ Currently learning new technologies every day and building projects to improve m
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-with-ritesh&theme=tokyonight&row=1&column=6" />
+<img src="https://github.com/dev-with-ritesh/dev-with-ritesh/blob/output/github-snake-dark.svg" />
 
 ---
 
